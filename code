@@ -1,0 +1,17 @@
+def numbers():
+	numbers = int(input("Enter Number: "))
+	if numbers % 2 == 0:
+		print(numbers, "this is an even number")
+	else:
+	    print(numbers, "this is an odd number")
+	    
+numbers()
+
+while True:
+    a=input("Run Again?: ")
+    if a == "Yes":
+    	numbers()
+    	
+    else:
+        b = print("Program Done, Thankyou")
+        break
