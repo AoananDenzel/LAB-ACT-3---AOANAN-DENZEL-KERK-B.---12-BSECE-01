@@ -1,2 +1,5 @@
 # LAB-ACT-3---AOANAN-DENZEL-KERK-B.---12-BSECE-01
 CREATING CODE THAT DETERMINE THE NUMBER IF ITS AN ODD OR EVEN
+
+video data of the program:
+https://youtu.be/XO73j44fMI0?si=8plfnS2wtEmYQjJX
